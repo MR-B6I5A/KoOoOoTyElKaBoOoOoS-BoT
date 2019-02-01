@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=!
-game=Break | !play
+owner=520011331189866498
+prefix=koty
+game=Type | kotyplay
 stayinchannel=true
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NTQwODQwODg5NDg5MDMxMTkw.DzWw2g.k9_EWhMK0Zoi9fqZs8OJPC-Vso4
